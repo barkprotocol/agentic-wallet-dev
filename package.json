@@ -73,7 +73,7 @@
     "undici": "7.2.0",
     "utf-8-validate": "^6.0.5",
     "uuid": "^11.0.4",
-    "vitest": "2.1.4",
+    "vitest": "2.1.9",
     "winston": "3.17.0",
     "winston-daily-rotate-file": "^5.0.0",
     "ws": "^8.18.0",
@@ -114,6 +114,6 @@
     "tsconfig-paths": "^4.2.0",
     "tsup": "8.3.5",
     "typescript": "^5.3.3",
-    "vitest": "2.1.4"
+    "vitest": "2.1.9"
   }
 }
